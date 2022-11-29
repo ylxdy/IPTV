@@ -15,11 +15,11 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16
 http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-备用
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-备
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="HD频道",CCTV5-高清-备用
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="HD频道",CCTV5-高清-备
 http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="五星体育频道" tvg-logo="http://www.weishizaixian.com/res/2021/06-29/c3bc69ba20246f8d5a4adff646f92bb9.jpg" group-title="HD频道",五星体育-HD-备用
+#EXTINF:-1 tvg-name="五星体育频道" tvg-logo="http://www.weishizaixian.com/res/2021/06-29/c3bc69ba20246f8d5a4adff646f92bb9.jpg" group-title="HD频道",五星体育-HD-备
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 
